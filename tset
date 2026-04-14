@@ -1,3 +1,14 @@
 shajdjka
+ fix/issue-33
 fix UI style pricing table layout anomalies #33
 fix UI style pricing table layout anomalies #33
+
+fix/issue-30
+fix dashboard initial load freeze #30
+ fix/issue-27
+fix dashboard initial load freeze
+fix avatar display issue
+fix database performance issue
+ main
+ main
+ main
