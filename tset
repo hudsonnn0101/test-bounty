@@ -12,3 +12,6 @@ fix database performance issue
  main
  main
  main
+
+fix/issue-26
+fix dashboard initial load freeze #26
