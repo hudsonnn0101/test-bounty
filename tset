@@ -9,6 +9,8 @@ fix dashboard initial load freeze #30
 fix dashboard initial load freeze
 fix avatar display issue
 fix database performance issue
+fix/issue-25
+fix reset password email flow #25
  main
  main
  main
